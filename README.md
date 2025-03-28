@@ -1,1 +1,2 @@
-# code_practice_training
+# java-senior-dev-refresher
+ [Getting Started Guide](DSA.md)
